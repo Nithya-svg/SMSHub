@@ -24,7 +24,7 @@ The main objectives of this project are to:
 * Python
 * Jupyter Notebook
 * Pandas (if data handling is used)
-* NumPy (if numerical operations are used)
+* NumPy (Naive Bayes theorem)
 * SMS API / simulation logic *(if applicable)*
 
 ---
